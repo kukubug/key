@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am kukubug on github.
+  * I am kukubug (https://keybase.io/kukubug) on keybase.
+  * I have a public key ASBFAeFIjm20Bll5rLuo6efKXOdDI9NuVpTwPOZD1wB7HAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204501e1488e6db4065979acbba8e9e7ca5ce74323d36e5694f03ce643d7007b1c0a",
+      "host": "keybase.io",
+      "kid": "01204501e1488e6db4065979acbba8e9e7ca5ce74323d36e5694f03ce643d7007b1c0a",
+      "uid": "9b0744087d6cf5aebf2268dd17a98019",
+      "username": "kukubug"
+    },
+    "merkle_root": {
+      "ctime": 1568192638,
+      "hash": "1eb705bbaf6549b989825337c145766bcbc4e738dc3248c3e359de4948918c08b9ce0e993814d073f082b37e6490bfe43b7c934c8b1ea802f8a534987873da12",
+      "hash_meta": "cbe9c76815d76a7042a5ac37d4cc21dbd848b348174a9bc962473a6eacc21f0e",
+      "seqno": 6653382
+    },
+    "service": {
+      "entropy": "YNIqk5tnoJIQ9jT4py4FJYNo",
+      "name": "github",
+      "username": "kukubug"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568192661,
+  "expire_in": 504576000,
+  "prev": "7e6677c9f04a0dc6bc9c281654655884140ca201e0af4097c74b6393cde6ddfc",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASBFAeFIjm20Bll5rLuo6efKXOdDI9NuVpTwPOZD1wB7HAo](https://keybase.io/kukubug), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRQHhSI5ttAZZeay7qOnnylznQyPTblaU8DzmQ9cAexwKp3BheWxvYWTESpcCBMQgfmZ3yfBKDca8nCgWVGVYhBQMogHgr0CXx0tjk83m3fzEIM3apxWMMZ1kpwFU6YYRIVVT320adosZIK6wzY8MMR+WAgHCo3NpZ8RAI56KRoFsdEqU/B8keeGerXu5CDaa8QJ03UiN2mycWEj5DtqHMD1dY7DK5kEo3DjHHA4p0rpolRUkB7SElPC3CKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFEYexumHn5sv+E/rQWrlLQkesL3xKlpfP4SXFymEigxo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/kukubug
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id kukubug
+```
